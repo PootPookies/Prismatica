@@ -1,6 +1,6 @@
-# Membre y
+# Jérémy Duverseau
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=y)
+ ![]( https://fakeimg.pl/400x400?text=x)
 
  ## Réalisations
 

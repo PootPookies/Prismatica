@@ -1,6 +1,6 @@
-# Membre v
+# Vincent Delisle
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=v)
+ ![]( https://fakeimg.pl/400x400?text=v)
 
  ## Réalisations
 
