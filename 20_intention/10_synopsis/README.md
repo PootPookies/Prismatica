@@ -2,19 +2,25 @@
 
 ## Concept
 
-Le concept de notre projet repose sur la création d’une expérience immersive en réalité virtuelle, qui plonge l’utilisateur dans l’esprit d’une personne vivant avec la chromosthésie, une condition où les sons sont perçus sous forme de couleurs, de textures ou de formes.
-
----
+## Une expérience immersive en réalité virtuelle qui simule la sensation d’un rêve lucide, où l’utilisateur explore et façonne un monde abstrait reflétant ses émotions et perceptions sensorielles.
 
 ## Intention de départ
 
-L'intention est de faire vivre aux participants une réflexion poétique et immersive sur la chromesthésie, une perception multisensorielle unique.
+Créer une expérience immersive en réalité virtuelle qui permet à l’utilisateur d’explorer son monde intérieur, mêlant contrôle conscient et intuition, à travers une combinaison unique de sons, visuels et interactions sensorielles.
 
 ---
 
 ## Description
 
-Ce projet immersif en réalité virtuelle permet de vivre la chromosthésie, une condition où les sons génèrent des couleurs et des formes. L’interacteur entre dans un réseau de neurones, représentant l’esprit d’un synesthète, pour explorer cet univers sensoriel. Grâce à une tablette, il peut dessiner ce qu’il entend, manipuler les couleurs, le pitch des sons, et créer des éléments 3D sur un canvas interactif. L’expérience, à la fois subjective et exploratrice, vise à susciter des émotions et à offrir une compréhension poétique de la chromosthésie, mêlant art, science et technologie pour révéler la richesse de cette perception unique.
+Ce projet propose une expérience immersive en réalité virtuelle, inspirée par la sensation d’un rêve lucide. L’utilisateur est plongé dans un monde abstrait, modulable et personnel, où il navigue entre contrôle conscient et exploration intuitive. Chaque interaction devient une porte ouverte sur son monde intérieur, favorisant introspection et pleine conscience.
+
+Au cœur de cette expérience se trouve la synesthésie, une condition neurologique où les sens se mêlent. Les sons déclenchent des couleurs, les formes évoquent des textures, et les gestes traduisent des états émotionnels. Différentes formes de synesthésie sont explorées pour offrir une richesse sensorielle inédite.
+
+Le projet vise également à guider l’utilisateur vers un état de flow, un moment de concentration intense et d’immersion totale, où la notion du temps disparaît. Les interactions sont conçues pour être fluides, naturelles et captivantes, rendant l’expérience à la fois intuitive et engageante.
+
+Enfin, cette expérience se veut une forme de méditation interactive, où chaque geste devient une représentation abstraite de l’état mental ou émotionnel de l’utilisateur. En manipulant sons et visuels, l’utilisateur est invité à une exploration introspective unique, mêlant art, technologie et bien-être.
+
+Ce projet incarne une invitation à découvrir un équilibre entre maîtrise et lâcher-prise, à travers une immersion qui lie le conscient à l’inconscient, et le tangible à l’intangible.
 
 ---
 
