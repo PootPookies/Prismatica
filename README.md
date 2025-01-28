@@ -2,7 +2,7 @@
 
 ## Devrait être présent sur cette page:
 
-* Titre
+* Prismatica
 * Bande-annonce
 * Résumé du projet (~ 100 mots)
 * Documentation vidéo de l'installation en action
