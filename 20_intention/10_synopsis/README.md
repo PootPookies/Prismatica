@@ -26,9 +26,9 @@ Ce projet incarne une invitation à découvrir un équilibre entre maîtrise et 
 
 ## Références
 
-- [](https://www.youtube.com/watch?v=mTfjl9GZCmk)
-- [](https://www.youtube.com/watch?v=obrBAysVef0)
-- [](https://refikanadol.com/works/art-of-intelligence/)
+- [Notes on Blindness](https://www.youtube.com/watch?v=mTfjl9GZCmk)
+- [Synesthesia Experience](https://www.youtube.com/watch?v=obrBAysVef0)
+- [Art-of-intelligence](https://refikanadol.com/works/art-of-intelligence/)
 
 ### Théorie (À supprimer quand section terminée)
 - [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
