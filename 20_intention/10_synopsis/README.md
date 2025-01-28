@@ -26,9 +26,9 @@ Ce projet incarne une invitation à découvrir un équilibre entre maîtrise et 
 
 ## Références
 
-- [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
-- [Concept](https://www.youtube.com/watch?v=obrBAysVef0)
-- [Concept](https://refikanadol.com/works/art-of-intelligence/)
+- [](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
+- [](https://www.youtube.com/watch?v=obrBAysVef0)
+- [](https://refikanadol.com/works/art-of-intelligence/)
 - [Concept](https://www.youtube.com/watch?v=mTfjl9GZCmk)
 - [Motivation](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/30_motivations/)
 - [Pitch](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/20_pitch/)
