@@ -2,7 +2,7 @@
 
 ## Concept
 
-## Une expérience immersive en réalité virtuelle qui simule la sensation d’un rêve lucide, où l’utilisateur explore et façonne un monde abstrait reflétant ses émotions et perceptions sensorielles.
+Une expérience immersive en réalité virtuelle qui simule la sensation d’un rêve lucide, où l’utilisateur explore et façonne un monde abstrait reflétant ses émotions et perceptions sensorielles.
 
 ## Intention de départ
 
