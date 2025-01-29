@@ -1,8 +1,24 @@
 # Synoptique
 
+![](../../medias/synoptique_1.png)
+
+---
+
+- **Ordinateur** 
+
+---
+
+
+![](../../medias/synoptique_2.png)
+
+
+
+
+<!-- 
 ## Références
 
 
 ### Théorie (À supprimer quand section terminée)
 * [Synoptique](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/10_synoptique/)
 
+-->
