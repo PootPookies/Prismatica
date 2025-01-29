@@ -24,6 +24,20 @@ Ce projet incarne une invitation à découvrir un équilibre entre maîtrise et 
 
 ---
 
+## Questions sur le point de vue de l'interacteur
+
+### Qu-est ce que vous voulez que l'interacteur vive?
+
+On souhaite offrir à l'interacteur une expérience immersive de méditation interactive, où la synesthésie devient le vecteur principal de perception. À travers l’interaction, il pourra ressentir une fusion entre le son, la couleur et le mouvement, lui permettant d’explorer un état de conscience modifié, proche d’un rêve lucide.
+
+### Qu-est ce que vous voulez que l'interacteur ressente?
+
+L’expérience doit lui donner le sentiment d’explorer son subconscient, de jouer avec ses perceptions et de découvrir des connexions entre ses sens, comme s’il était à la frontière entre l’imaginaire et la réalité.
+
+### Qu-est ce que vous voulez que l'interacteur comprenne?
+
+L’interacteur doit comprendre le lien entre la couleur et le son, et comment ils interagissent. L’expérience lui montre que chaque action peut créer une harmonie entre l’auditif et le visuel, transformant sa perception du monde.
+
 ## Références
 
 - [Notes on Blindness](https://www.youtube.com/watch?v=mTfjl9GZCmk)
