@@ -18,11 +18,11 @@ L’œuvre vise à explorer les perceptions sensorielle des participants en les 
 
 ### Description
 
-L’utilisateur s’installe devant une tablette Wacom et commence à dessiner. Instantanément, ses tracés sont projetés sur un mur grâce au chromakey, créant une œuvre en temps réel. Chaque couleur utilisée déclenche une note ou une mélodie spécifique, en suivant la correspondance définie par le cercle chromatique de Newton. Avec des écouteurs, l’utilisateur perçoit directement la transformation sonore de son dessin, vivant ainsi une expérience où l’art visuel devient une composition musicale.
+L’utilisateur s’installe devant une tablette Wacom et commence à dessiner. Instantanément, ses tracés sont projetés sur un mur créant une œuvre en temps réel. Chaque couleur utilisée déclenche une note ou une mélodie spécifique, en suivant la correspondance définie par le cercle chromatique de Newton. Avec des écouteurs, l’utilisateur perçoit directement la transformation sonore de son dessin, vivant ainsi une expérience où l’art visuel devient une composition musicale.
 
 ### Visuel
 
-L’installation repose sur une projection dynamique de dessins évolutifs dans une ligne du temps prédeterminée. La superposition des tracés crée une composition visuelle unique pour chaque interacteur.
+L’installation repose sur une projection dynamique de dessins évolutifs dans un lapse de temps de 3 minutes. La superposition des tracés crée une composition visuelle unique pour chaque interacteur.
 
 ### Son
 
