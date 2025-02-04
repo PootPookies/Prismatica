@@ -13,7 +13,7 @@
 
 ---
 
-Total : 304.52$
+**Sous-Total : 304.52$**
 
 ## Références
 
