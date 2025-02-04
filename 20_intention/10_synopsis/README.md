@@ -1,5 +1,3 @@
-# **Prismatica** – Installation Interactive
-
 ## **Synopsis**
 
 ## **Pitch**
