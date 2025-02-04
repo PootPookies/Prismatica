@@ -1,4 +1,4 @@
-# **Prismatica** – Installation Interactive
+# **Prismatica**
 
 ## **Synopsis**
 
