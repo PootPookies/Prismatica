@@ -1,7 +1,5 @@
 # Technologies
 
-# Technologies utilisées dans le projet
-
 Le projet repose sur l’intégration de plusieurs technologies matérielles et logicielles pour créer une expérience immersive où les dessins réalisés sur un tableau blanc interagissent avec des éléments sonores et visuels en temps réel.
 
 ## Matériel
