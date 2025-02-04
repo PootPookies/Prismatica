@@ -1,5 +1,3 @@
-# **Prismatica**
-
 ## **Synopsis**
 
 ## **Pitch**
