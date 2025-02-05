@@ -1,5 +1,10 @@
 # Prismatica
 
+![](/medias/logo/prismatica-logo-black.svg)
+
+ <img src="/medias/logo/prismatica-logo.svg" style="max-width: 24em">
+
+
 ## Devrait être présent sur cette page:
 
 * Prismatica
