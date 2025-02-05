@@ -1,6 +1,7 @@
 # Prismatica
 
-![](/medias/logo/prismatica-logo-black.svg)
+![](/medias/logo/prismatica-logo-black.svg#gh-dark-mode-only)
+![](/medias/logo/prismatica-logo-white.svg#gh-light-mode-only)
 
 <img src="./medias/logo/prismatica-logo.svg" style="max-width: 24em">
 
