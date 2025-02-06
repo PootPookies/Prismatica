@@ -4,11 +4,11 @@
 
 ## Planche d'ambiances
 
-![Planche d'ambiances](../../medias/planche_ambiance.png)
+![Planche d'ambiances](../../medias/images/ambiances/planche_ambiance.png)
 
 ### Références visuelles
 
-![Polyfauna – A Radiohead Experiment](../../medias/polyfauna-v2-screenshot.jpg)
+![Polyfauna – A Radiohead Experiment](../../medias/images/ambiances/polyfauna-v2-screenshot.jpg)
 
 L’expérience interactive Polyfauna, développée par Radiohead, Nigel Godrich et le studio The Mill, explore un univers visuel et sonore immersif où l’utilisateur navigue à travers des paysages abstraits en perpétuelle évolution. Inspirée des sessions d’enregistrement de l’album The King of Limbs, cette application mêle textures organiques, effets de traits dynamiques et une ambiance sonore hypnotique. La vidéo [Polyfauna – A Radiohead Experiment](https://vimeo.com/106160168) illustre cette atmosphère onirique où formes et couleurs se transforment au fil de l’exploration. Ce projet influence notre approche en matière de composition visuelle, d’esthétique générative et d’ambiance immersive, notamment par l’usage de lignes fluides, de palettes chromatiques vibrantes et de sonorités éthérées pour renforcer l’expérience sensorielle.
 

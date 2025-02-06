@@ -1,6 +1,6 @@
 # Scénarimage
 
-![Scénarimage](../../medias/storyboard.png)
+![Scénarimage](../../medias/images/scenarimage/storyboard.png)
 
 | Couleur | Émotions                                                | Lien avec le projet (effet visuel du trait)                                                                                   | Aspect sonore (Note & Fréquence)                  |
 | ------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |

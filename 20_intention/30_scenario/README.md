@@ -2,7 +2,7 @@
 
 <!-- Ici mettre tous les documents et références concernant la scéanrisation de l'expérience   -->
 
-![](../../medias/scenario_interactif.png)
+![](../../medias/images/scenario/scenario_interactif.png)
 
 
 <!-- 
