@@ -1,7 +1,7 @@
 # Prismatica
 
-![](/medias/logo/prismatica-logo-black.svg#gh-dark-mode-only)
-![](/medias/logo/prismatica-logo-white.svg#gh-light-mode-only)
+![Prismatica Logo](https://github.com/PootPookies/Prismatica/blob/06b293b854c0b10a3f36fd1fdcd9e9e3db7ba9bf/medias/images/logo/prismatica_logo_v2_dark%401024x.png#gh-dark-mode-only)
+![Prismatica Logo](https://github.com/PootPookies/Prismatica/blob/06b293b854c0b10a3f36fd1fdcd9e9e3db7ba9bf/medias/images/logo/prismatica_logo_v2_light%401024x.png#gh-light-mode-only)
 
 <img src="./medias/images/logo/prismatica-logo.svg" style="max-width: 24em">
 
