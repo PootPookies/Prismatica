@@ -1,51 +1,48 @@
 # Devis Technique
 
 ## Équipement fourni par l’artiste
-### Matériel Nécessaire
+### Matériel nécessaire
 
-- **Installation Physique :** 
-  - Séparateurs d'espace
-  - Tableau blanc effaçable
-  - Crayons feutres effaçable de couleurs
+- **Installation physique :**  
+  - Séparateurs d'espace  
+  - Tableau blanc effaçable  
+  - Crayons feutres effaçables de couleurs
+  - Support/table pour tenir les crayons et écouteur  
 
-### Logiciels Nécessaires
+### Logiciels nécessaires
 
-- **Environnement de développement :** 
-  - TouchDesigner pour gérer les interactions et les effets visuels en temps réel.
+- **Environnement de développement :**  
+  - TouchDesigner pour gérer les interactions et les effets visuels en temps réel.  
 
-- **Synthétiseur/Source sonore :**
-  - Reaper.
+- **Synthétiseur/source sonore :**  
+  - Reaper.  
 
-- **Logiciel de projection :**
-  - TouchDesigner pour gérer la projection en temps réel, la mise en scène vidéo et les effets.
+- **Logiciel de projection :**  
+  - TouchDesigner pour gérer la projection en temps réel, la mise en scène vidéo et les effets.  
 
 ---
 
 ## Équipement fourni par l'établissement
-### Matériel Nécessaire
+### Matériel nécessaire
 
-- **Table haute** (à determiner si l'école en a une)
+- **Caméra/webcam**  
+  - **Accessoires :** Support de fixation ajustable, câblage d'alimentation.  
 
-- **Caméra/webcam**
-  - **Accessoires :** Support de fixation ajustable, câblage d'alimentation.
+- **Projecteur lumière**  
 
-- **Projecteur lumière**
+- **Projecteur au mur**  
+  - **Accessoires :** Support de fixation ajustable, câblage HDMI, câblage d'alimentation.  
 
-- **Projecteur au mur**
-  - **Accessoires :** Support de fixation ajustable, câblage HDMI, câblage d'alimentation. 
+- **Haut-parleurs :**  
+  - **Quantité :** 2 haut-parleurs stéréo.  
+  - **Accessoires :** Câblage audio.  
 
-- **Haut-parleurs :**
-  - **Quantité :** 2 haut-parleurs stéréo.
-  - **Accessoires :** Câblage audio.
+- **Câblage :**  
+  - HDMI pour projection, Ethernet/Wi-Fi pour la communication entre dispositifs, câbles audio pour la gestion sonore.  
 
-- **Câblage :**
-  - HDMI pour projection, Ethernet/Wi-Fi pour la communication entre dispositifs, câbles audio pour la gestion sonore.
-
-- **Supports techniques :**
-  - Supports pour fixer les projecteurs, supports de fixation pour tablette.
+- **Supports techniques :**  
+  - Supports pour fixer le projecteur, supports de fixation pour tablette.  
 
 ---
 
-
 ## Référence
-
