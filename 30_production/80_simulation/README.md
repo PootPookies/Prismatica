@@ -2,7 +2,7 @@
 
 ## Simulation 3D
 
-[![__Cliquez ici pour regarder la simulation sur YouTube__](https://img.youtube.com/vi/0_hS1EnDEKU/maxresdefault.jpg)](https://youtu.be/0_hS1EnDEKU)
+[![🔗 __Cliquez ici pour regarder la simulation sur YouTube__ 🚀](https://img.youtube.com/vi/0_hS1EnDEKU/maxresdefault.jpg)](https://youtu.be/0_hS1EnDEKU)
 
 <!--### Théorie (À supprimer quand section terminée)
 
