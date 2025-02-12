@@ -1,9 +1,9 @@
 # Vincent Delisle
 
- ![]( https://fakeimg.pl/400x400?text=v)
+![Développeur et concepteur sonore](https://fakeimg.pl/400x400?text=v)
 
- ## Réalisations
+## Réalisations
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=concept)
+- ![S1 Développement du concept](https://fakeimg.pl/400x400?text=concept)
