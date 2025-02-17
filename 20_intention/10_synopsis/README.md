@@ -26,7 +26,7 @@ L’installation repose sur une **projection en temps réel** des tracés du par
 
 ## Son
 
-Chaque couleur du dessin est associée à une **fréquence sonore spécifique**, basée sur le **cercle chromatique de Newton**. Plus la couleur est saturée, plus la note sera intense. L’environnement sonore évolue ainsi en fonction du **rythme et du choix des couleurs**, créant une ambiance cohérente et immersive.
+Chaque couleur du dessin est associée à une **note spécifique**, basée sur le **cercle chromatique de Newton**. Plus le nombre de pixels d'une couleur est élevé, plus la note sera intense. L’environnement sonore évolue ainsi en fonction du **type de dessin et du choix des couleurs**, créant une ambiance cohérente et immersive.
 
 ## Interactivité
 
