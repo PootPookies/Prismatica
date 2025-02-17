@@ -1,6 +1,6 @@
 # Vincent Delisle
 
-![Développeur et concepteur sonore](https://fakeimg.pl/400x400?text=v)
+![Développeur et concepteur sonore](../../medias/images/equipe/vdelisle.jpg)
 
 ## Réalisations
 

@@ -1,6 +1,6 @@
 # Ikrame Rata
 
-![Chef de projet](/medias/images/equipe/ikrame.jpg)
+![Chef de projet](../../medias/images/equipe/ikrame.jpg)
 
 ## Réalisations
 

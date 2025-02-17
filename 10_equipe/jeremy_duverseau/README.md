@@ -1,6 +1,6 @@
 # Jérémy Duverseau
 
-![Directeur artistique](/medias/images/equipe/jduverseau%201.jpg)
+![Directeur artistique](../../medias/images/equipe/jduverseau.jpg)
 
 ## Réalisations
 
