@@ -15,7 +15,7 @@ Les interfaces et capteurs sont utilisés pour capter l'interaction des utilisat
 
 La caméra est placée au-dessus du tableau blanc pour filmer en temps réel les dessins effectués par les utilisateurs et les retranscrire dans l'environnement interactif.
 
-- **Sony a6500** : Placée au-dessus du tableau, cette caméra haute définition capte les dessins en temps réel. Elle permet une prise de vue précise et fluide des dessins, assurant ainsi la synchronisation avec les éléments sonores et visuels générés par le système.
+- **Sony a6400** : Placée au-dessus du tableau, cette caméra haute définition capte les dessins en temps réel. Elle permet une prise de vue précise et fluide des dessins, assurant ainsi la synchronisation avec les éléments sonores et visuels générés par le système.
 
 ### Processeurs et Ordinateurs
 
@@ -27,7 +27,7 @@ Les processeurs traitent les données collectées par la caméra pour générer 
 
 L'affichage visuel et la diffusion sonore sont essentiels pour renforcer l’immersion de l’expérience interactive.
 
-- **Projecteurs haute résolution** : Diffusent les dessins et les éléments visuels générés en temps réel sur un mur ou une autre surface, en fonction des actions de l'utilisateur.
+- **Projecteur** : Diffuse les dessins et les éléments visuels générés en temps réel sur un mur, en fonction des actions de l'utilisateur.
 - **Écouteurs** : Diffusent des ambiances sonores préalablement créées, qui évoluent en fonction des dessins et interactions de l'utilisateur.
 
 ## Logiciel
@@ -54,3 +54,26 @@ TouchDesigner permet de générer du contenu visuel en temps réel, créant une 
 ## Récapitulatif
 
 L’intégration des technologies matérielles et logicielles permet de créer une expérience immersive et interactive où les dessins réalisés par les utilisateurs sur un tableau blanc prennent vie à travers des projections visuelles et des effets sonores en temps réel. La caméra Sony a6500 joue un rôle clé dans la capture précise des dessins, tandis que **TouchDesigner** synchronise les effets visuels et déclenche les ambiances sonores, créant une expérience unique pour chaque utilisateur.
+
+### 🔗 Connexion Reaper → TouchDesigner
+
+#### 1. Traiter l’audio dans Reaper
+
+- Charge tes samples, plugins (VST), et applique tes effets.
+- Configure **ReaRoute ASIO** (si sur Windows) ou **Jack Audio** (Windows/Mac/Linux) pour rediriger l’audio.
+
+#### 2. Envoyer le son vers TouchDesigner
+
+- Dans TouchDesigner, utilise un **Audio Device In CHOP** pour récupérer l’audio de Reaper via **ReaRoute** ou **Jack Audio**.
+- Assure-toi que TouchDesigner capte le bon canal d'entrée.
+
+#### 3. Processer l’audio pour la visualisation
+
+- Utilise un **Audio Spectrum CHOP** ou **Audio Analysis CHOP** pour extraire des fréquences, amplitudes, etc.
+- Mappe ces valeurs à des paramètres visuels dans TouchDesigner.
+
+#### 🔄 Communication avancée
+
+- Envoie des **données MIDI ou OSC** depuis Reaper vers TouchDesigner pour synchroniser des effets en temps réel.
+
+Ce setup permet d'intégrer le traitement sonore de Reaper avec des visuels interactifs générés dans TouchDesigner. 🚀

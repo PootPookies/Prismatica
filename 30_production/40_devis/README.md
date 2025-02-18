@@ -1,48 +1,55 @@
 # Devis Technique
 
 ## Équipement fourni par l’artiste
+
 ### Matériel nécessaire
 
-- **Installation physique :**  
-  - Séparateurs d'espace  
-  - Tableau blanc effaçable  
+- **Installation physique :**
+  - Séparateurs d'espace
+  - Tableau blanc effaçable
   - Crayons feutres effaçables de couleurs
-  - Support/table pour tenir les crayons et écouteur  
+  - Support/table pour tenir les crayons et écouteur
 
 ### Logiciels nécessaires
 
-- **Environnement de développement :**  
-  - TouchDesigner pour gérer les interactions et les effets visuels en temps réel.  
+- **Environnement de développement :**
 
-- **Synthétiseur/source sonore :**  
-  - Reaper.  
+  - TouchDesigner pour gérer les interactions et les effets visuels en temps réel.
 
-- **Logiciel de projection :**  
-  - TouchDesigner pour gérer la projection en temps réel, la mise en scène vidéo et les effets.  
+- **Synthétiseur/source sonore :**
+
+  - Reaper et PlugData.
+
+- **Logiciel de projection :**
+  - TouchDesigner pour gérer la projection en temps réel, la mise en scène vidéo et les effets.
 
 ---
 
 ## Équipement fourni par l'établissement
+
 ### Matériel nécessaire
 
-- **Caméra/webcam**  
-  - **Accessoires :** Support de fixation ajustable, câblage d'alimentation.  
+- **Caméra**
 
-- **Projecteur lumière**  
+  - **Sony A6400**
+  - **Accessoires :** Support de fixation ajustable, câblage d'alimentation.
 
-- **Projecteur au mur**  
-  - **Accessoires :** Support de fixation ajustable, câblage HDMI, câblage d'alimentation.  
+- **Projecteur lumière**
 
-- **Haut-parleurs :**  
-  - **Quantité :** 2 haut-parleurs stéréo.  
-  - **Accessoires :** Câblage audio.  
+- **Projecteur au mur**
 
-- **Câblage :**  
-  - HDMI pour projection, Ethernet/Wi-Fi pour la communication entre dispositifs, câbles audio pour la gestion sonore.  
+  - **Accessoires :** Support de fixation ajustable, câblage HDMI, câblage d'alimentation.
 
-- **Supports techniques :**  
-  - Supports pour fixer le projecteur, supports de fixation pour tablette.  
+- **Haut-parleurs :**
+
+  - **Quantité :** 2 haut-parleurs stéréo.
+  - **Accessoires :** Câblage audio.
+
+- **Câblage :**
+
+  - HDMI pour projection, Ethernet/Wi-Fi pour la communication entre dispositifs, câbles audio pour la gestion sonore.
+
+- **Supports techniques :**
+  - Supports pour fixer le projecteur, supports de fixation pour tablette.
 
 ---
-
-## Référence

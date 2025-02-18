@@ -17,8 +17,8 @@
 
 | Description de l'article | Prix alloué |
 | ------------------------ | ----------- |
-| Budget divers            | 50.00$      |
+| Budget divers            | 70.00$      |
 
-**Sous-Total : 389.64$**
+**Sous-Total : 409.64$**
 
 ---
