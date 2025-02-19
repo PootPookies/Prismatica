@@ -3,5 +3,5 @@
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
 - [![Vincent Delisle](../../medias/images/equipe/vdelisle.jpg)](vincent_delisle/README.md)
-- [![Ikrame Rata](10_equipe/ikrame_rata)
+- [![Ikrame Rata]([10_equipe/ikrame_rata](https://github.com/PootPookies/Prismatica/tree/84a029ef0121a90a40f700bdb45bafdb615fef43/10_equipe/ikrame_rata))]
 - [![Jérémy Duverseau](../../medias/images/equipe/jduverseau.jpg)](jeremy_duverseau/README.md)
