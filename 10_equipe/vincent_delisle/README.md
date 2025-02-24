@@ -23,5 +23,6 @@ Vincent a structuré l’organisation du travail en répartissant les tâches su
 Vincent a commencé à travailler sur le son associé à la couleur rouge, en préparant les bases sonores pour son intégration dans la maquette.
 
 ![Test](../../medias/images/progression/vincent/semaine_02_progression_reaper.PNG)
+![Test](../../medias/images/progression/vincent/semaine_02_progression_plugdata.PNG)
 
 ### S4 Développement du concept
