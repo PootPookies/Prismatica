@@ -10,7 +10,7 @@
 
 Recherche approfondie sur les fondements scientifiques qui soutiennent la conception du projet, notamment l’impact des sons et des couleurs sur la perception et les émotions.
 
-![Developpement du concept](/medias/images/progression/ikrame/recherche_scientifique.png)
+![Recherche scientifique](../../medias/images/progression/ikrame/recherche_scientifique.png)
 
 ---
 
@@ -20,6 +20,12 @@ Ikrame a retravaillé l’idée du projet en approfondissant la réflexion scien
 
 ![Organisation](../../medias/images/progression/ikrame/simulation3d.png)
 
-### S3 Développement du concept
+---
+
+### S3 Expérimentations et Tests
+
+Ikrame a concrétisé l’espace de travail en prenant les mesures nécessaires et en affinant la maquette, notamment en réfléchissant à l’emplacement des éléments. Elle a également anticipé les problèmes techniques potentiels pour mieux adapter la conception.
+
+![Emplacement](../../medias/images/plantation/nouvelle_plantation-1.jpgg)
 
 ### S4 Développement du concept

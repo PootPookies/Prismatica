@@ -18,6 +18,10 @@ Vincent a structuré l’organisation du travail en répartissant les tâches su
 
 ![Organisation](../../medias/images/progression/vincent/repartition_taches.png)
 
-### S3 Développement du concept
+### S3 Expérimentations et Tests
+
+Vincent a commencé à travailler sur le son associé à la couleur rouge, en préparant les bases sonores pour son intégration dans la maquette.
+
+![Test](../../medias/images/progression/vincent/semaine_02_progression_reaper.PNG)
 
 ### S4 Développement du concept
