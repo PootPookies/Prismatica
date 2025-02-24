@@ -26,7 +26,7 @@ Ikrame a retravaillé l’idée du projet en approfondissant la réflexion scien
 
 Ikrame a concrétisé l’espace de travail en prenant les mesures nécessaires et en affinant la maquette, notamment en réfléchissant à l’emplacement des éléments. Elle a également anticipé les problèmes techniques potentiels pour mieux adapter la conception.
 
-![Emplacement](../../medias/images/plantation/nouvelle_plantation-1.jpgg)
+![Emplacement](../../medias/images/plantation/nouvelle_plantation-1.jpg)
 
 ### S4 Présentation de la maquette
 
