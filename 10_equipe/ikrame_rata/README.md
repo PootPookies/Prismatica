@@ -18,7 +18,7 @@ Recherche approfondie sur les fondements scientifiques qui soutiennent la concep
 
 Ikrame a retravaillé l’idée du projet en approfondissant la réflexion scientifique qui la soutient et en s’assurant de sa cohérence. Elle a également réalisé une simulation en 3D du projet afin de mieux visualiser son fonctionnement et d’anticiper les contraintes techniques.
 
-![Developpement du concept](/medias/images/progression/ikrame/recherche_scientifique.png)
+![Organisation](../../medias/images/progression/ikrame/simulation3d.png)
 
 ### S3 Développement du concept
 
