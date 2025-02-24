@@ -20,4 +20,10 @@ Jérémy a exploré et développé plusieurs concepts visuels pour adapter l’e
 
 ### S3 Développement du concept
 
-### S4 Développement du concept
+Jérémy a développé le visuel de la couleur rouge, explorant des approches graphiques et esthétiques pour assurer une cohérence visuelle avec l’expérience immersive du projet.
+
+![Touch designer](../../medias/images/progression/jeremy/jeremy_touch.png)
+
+### S4 Présentation de la maquette
+
+Jérémy a peaufiné les visuels de la projection pour assurer une meilleure lisibilité et fluidité de l’animation.

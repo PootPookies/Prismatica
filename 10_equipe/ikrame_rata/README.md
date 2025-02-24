@@ -28,4 +28,6 @@ Ikrame a concrétisé l’espace de travail en prenant les mesures nécessaires 
 
 ![Emplacement](../../medias/images/plantation/nouvelle_plantation-1.jpgg)
 
-### S4 Développement du concept
+### S4 Présentation de la maquette
+
+Ikrame a travaillé sur l'intégration de l'interaction entre le dessin et la projection ainsi que sur la synchronisation entre le son et l’image.

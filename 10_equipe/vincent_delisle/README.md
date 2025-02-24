@@ -25,4 +25,6 @@ Vincent a commencé à travailler sur le son associé à la couleur rouge, en pr
 ![Test](../../medias/images/progression/vincent/semaine_02_progression_reaper.PNG)
 ![Test](../../medias/images/progression/vincent/semaine_02_progression_plugdata.PNG)
 
-### S4 Développement du concept
+### S4 Présentation de la maquette
+
+Vincent a optimisé le son pour qu’il réagisse dynamiquement en fonction de l’intensité du dessin.
