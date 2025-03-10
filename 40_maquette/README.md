@@ -6,14 +6,14 @@ La maquette a été réalisée à l’aide d’un Sony A6400 pour capturer l’i
 
 Le résultat obtenu démontre la fonctionnalité de notre idée et nous conduit à approfondir l’aspect du trait avec davantage de complexité.
 
-## Gallerie d'images
+## Galerie d'images
 
 - ![Image 1](../medias/images/maquette/maquette_1.jpg)
 - ![Image 2](../medias/images/maquette/maquette_2.jpg)
 - ![Image 3](../medias/images/maquette/maquette_3.jpg)
 - ![Image 4](../medias/images/maquette/maquette_4.jpg)
 
-## Vidéo du la maquette en action
+## Vidéo de la maquette en action
 
 <!-- ## Références
 
