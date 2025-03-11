@@ -1,15 +1,27 @@
-# Budget
-
 ## Budget total: 500$
 
 ---
 
 ### Mobilier de bureau
 
-| Description de l'article | Prix unitaire | Quantité | Total  | Lien d'article                                                                                       |
-| ------------------------ | ------------- | -------- | ------ | ---------------------------------------------------------------------------------------------------- |
-| Crayons                  | 11.34$        | 2        | 22.68$ | [Crayons](https://www.amazon.ca/Amazon-Basics-Low-Odor-Whiteboard-Assorted/dp/B00T3ROM9G/)           |
-| Tableau blanc            | 26.99$        | 1        | 26.99$ | [Tableau blanc](https://www.amazon.ca/QUEENLINK-Magnetic-Whiteboard-Desktop-Portable/dp/B0CMZL3Y8Y/) |
+| Description de l'article                                | Prix unitaire | Quantité | Prix total | Lien d'article                                                                                                    |
+| ------------------------------------------------------- | ------------- | -------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| Crayons                                                 | 11.34$        | 2        | 26.08$     | [Crayons](https://www.amazon.ca/Amazon-Basics-Low-Odor-Whiteboard-Assorted/dp/B00T3ROM9G/)                        |
+| Support mural adhésif universel pour tous les écouteurs | 14.99$        | 1        | 17.23$     | [Support Écouteurs](https://www.amazon.ca/Headphone-Universal-Sennheiser-Audio-Technica-Controller/dp/B077MBVHP7) |
+
+---
+
+### Matériel artistique
+
+| Description de l'article     | Prix unitaire | Quantité | Prix total | Lien d'article            |
+| ---------------------------- | ------------- | -------- | ---------- | ------------------------- |
+| Sharpies pointe pinceau      | 31.49$        | 1        | 36.21$     | Magasin CO-OP Montmorency |
+| Carnet Croquis Hilroy        | 7.29$         | 1        | 8.38$      | Magasin CO-OP Montmorency |
+| Rona Acrylique BC Plexiglass | 34.49$        | 1        | 39.66$     | Magasin Rona              |
+| Panneau Masson blanc         | 10.49$        | 1        | 12.06$     | Magasin Rona              |
+| Ruban adhésif                | 4.99$         | 1        | 5.74$      | Magasin Rona              |
+| Bandes LED 3M 6000-6500k     | 19.99$        | 1        | 22.95$     | Magasin Addison           |
+| Marqueurs Expo test          | 8.79$         | 1        | 10.11$     | Magasin Brunet            |
 
 ---
 
@@ -19,6 +31,6 @@
 | ------------------------ | ----------- |
 | Budget divers            | 70.00$      |
 
-**Sous-Total : 119.67$**
+**Sous-Total : 248.42$**
 
 ---
