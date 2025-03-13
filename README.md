@@ -1,4 +1,4 @@
-# Prismatica
+# PRISMATICA
 
 <picture>
   <source srcset="medias/images/logo/prismatica_logo_v2_dark@1024x.png" media="(prefers-color-scheme: dark)">
