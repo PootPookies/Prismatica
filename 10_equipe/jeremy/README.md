@@ -16,7 +16,7 @@ Jérémy a développé un mapping associant chaque couleur à des éléments sp�
 
 Jérémy a exploré et développé plusieurs concepts visuels pour adapter l’esthétique du projet et a également conçu le logo officiel.
 
-![Logo](../../medias/images/logo/prismatica-logo-white.png)
+![Logo](../../medias/images/logo/prismatica-logo-black.svg)
 
 ### S3 Développement du concept
 
