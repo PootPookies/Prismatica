@@ -15,6 +15,8 @@ Le résultat obtenu démontre la fonctionnalité de notre idée et nous conduit 
 
 ## Vidéo de la maquette en action
 
+- ![Vidéo de la maquette en action](../medias/videos/maquette.MOV)
+
 <!-- ## Références
 
 - [Étude de faisabilité](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/10_etude/)
