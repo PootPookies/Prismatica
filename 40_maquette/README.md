@@ -15,7 +15,10 @@ Le résultat obtenu démontre la fonctionnalité de notre idée et nous conduit 
 
 ## Vidéo de la maquette en action
 
-- ![Vidéo de la maquette en action](../medias/videos/maquette.MOV)
+<video width="640" height="360" controls>
+    <source src="../medias/videos/maquette.MOV" type="video/quicktime">
+    Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 <!-- ## Références
 
