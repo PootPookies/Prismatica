@@ -36,8 +36,15 @@
             --theme-hue: 4;
         }
 
+        @font-face {
+            font-family: 'Geist';
+            src: url('/assets/font/geist/Geist-Regular.otf') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
         * {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Geist', sans-serif;
             color: #e0e0e0;
         }
 
@@ -47,10 +54,15 @@
 
         .app-name-link {
             font-size: 1.5em;
+            text-transform: uppercase;
         }
 
         .sidebar-toggle-button {
             color: #e0e0e0;
+        }
+
+        svg {
+            fill: #e1e1e1;
         }
     </style>
 
