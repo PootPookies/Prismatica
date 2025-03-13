@@ -15,10 +15,7 @@ Le résultat obtenu démontre la fonctionnalité de notre idée et nous conduit 
 
 ## Vidéo de la maquette en action
 
-<video width="640" height="360" controls>
-    <source src="../medias/videos/maquette.MOV" type="video/quicktime">
-    Votre navigateur ne supporte pas la lecture de cette vidéo.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztBVyXd31gE" frameborder="0" allowfullscreen></iframe>
 
 <!-- ## Références
 
