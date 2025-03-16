@@ -7,9 +7,9 @@ Documentation du projet finalisé
 - ![Image 3](https://placehold.co/400x400?text=3+image)
 - ![Image 4](https://placehold.co/400x400?text=4+image)
 
-### Bande d'annonce
+### Bande-annonce
 
-[!🔗 Cliquez ici pour regarder la bande d'annonce sur YouTube 🚀](https://youtu.be/7dyGnVHcX7k)
+[🔗 Cliquez ici pour regarder la bande-annonce sur YouTube 🚀](https://youtu.be/7dyGnVHcX7k)
 
 - Documentation vidéo de l'installation en action
 
