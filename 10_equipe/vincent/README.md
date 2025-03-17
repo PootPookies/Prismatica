@@ -28,3 +28,27 @@ Vincent a commencé à travailler sur le son associé à la couleur rouge, en pr
 ### S4 Présentation de la maquette
 
 Vincent a optimisé le son pour qu’il réagisse dynamiquement en fonction de l’intensité du dessin.
+
+### S5 Optimisation de l’Analyse des Couleurs
+
+Vincent a travaillé sur la logique nécessaire pour analyser les couleurs de manière plus efficace. Il a également implémenté un système permettant de diviser l’image en quatre zones distinctes, afin que l’analyse prenne en compte l’emplacement précis du trait et ajuste l’interaction sonore en conséquence.
+
+![Analyse sonore](../../medias/images/progression/vincent/semaine_06_analyse_sonore_amélioré.png)
+![Analyse sonore](../../medias/images/progression/vincent/semaine_06_nouvelle_logique_animation_son.png)
+
+### S6 Travail sur les Couleurs Assignées
+
+Vincent a approfondi son travail sur les deux couleurs qui lui ont été assignées : le rouge et le vert. Il a affiné leur analyse et a développé l’intégration visuelle et sonore correspondante, en veillant à une cohérence entre l’expérience visuelle et l’ambiance sonore du projet.
+
+![Analyse sonore vert](../../medias/images/progression/vincent/semaine_05_visuel_vert.png)
+![Analyse sonore orange ](../../medias/images/progression/vincent/semaine_05_visuel_orange.png)
+
+### S7 Harmonisation du Patch Global
+
+Vincent a travaillé sur le patch global en veillant à ce que toutes les couleurs, celles d’Ikrame et les siennes, s’intègrent harmonieusement. Il a ajusté les paramètres pour assurer une cohérence sonore et visuelle à l’ensemble du projet, garantissant ainsi une expérience fluide et immersive.
+
+![Analyse sonore ORANGE ](../../medias/images/progression/vincent/semaine_06_nouvelle_logique_animation_son.png)
+
+### S8 Derniers Tests et Harmonisation Finale
+
+Vincent a effectué les derniers tests afin de s’assurer de l’harmonisation des couleurs et de leur cohérence avec l’ensemble du projet. Il a affiné les réglages pour garantir une interaction fluide et immersive entre les éléments visuels et sonores.
