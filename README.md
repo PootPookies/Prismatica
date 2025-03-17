@@ -16,7 +16,7 @@
 
 ## Gallerie image exemple
 
-- ![Image](/medias/images/maquette/image4.HEIC)
+- ![Image](/medias/images/maquette/image4.jpg)
 - ![Image](/medias/images/maquette/image1.PNG)
 - ![Image](/medias/images/maquette/image2.PNG)
 - ![Image](/medias/images/maquette/image3.PNG)
