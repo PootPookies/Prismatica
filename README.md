@@ -16,10 +16,10 @@
 
 ## Gallerie image exemple
 
-- ![Image](/medias/images/maquette/image4.jpg)
-- ![Image](/medias/images/maquette/image1.PNG)
-- ![Image](/medias/images/maquette/image2.PNG)
-- ![Image](/medias/images/maquette/image3.PNG)
+- ![Image 1](/medias/images/installation/image_acceuil.jpg)
+- ![Image 2](/medias/images/installation/image_acceuil_1.jpg)
+- ![Image 3](/medias/images/installation/image_acceuil_2.jpg)
+- ![Image 4](/medias/images/installation/image_acceuil_3.jpg)
 <!-- ![Image 4](https://placehold.co/400x400?text=4+image)
 - ![Image 5](https://placehold.co/400x400?text=5+image)
 - ![Image 6](https://placehold.co/400x400?text=6+image)->
