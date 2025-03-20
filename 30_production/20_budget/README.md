@@ -1,3 +1,5 @@
+# Budget
+
 ## Budget total: 500$
 
 ---
