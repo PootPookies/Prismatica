@@ -21,5 +21,5 @@
 - ![](/medias/images/installation/image_acceuil_2.jpg)
 - ![](/medias/images/installation/image_acceuil_3.jpg)
 - ![](/medias/images/installation/image_acceuil_4.jpg)
-- ![](/medias/images/installation/image_acceuil_4.jpg)
+- ![](/medias/images/installation/image_acceuil_5.jpg)
 <!--
