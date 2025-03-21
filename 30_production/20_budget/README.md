@@ -27,6 +27,8 @@
 | Ruban magnétique                      | 9.99$         | 1        | 11.49$     | Magasin Rona              |
 | Boulons mécaniques T.R. 1/4-20 x 3 po | 2.08$         | 8        | 2.39$      | Magasin Rona              |
 | Écrou hexagonal fini 1/4-20 pouces    | 1.60$         | 8        | 2.39$      | Magasin Rona              |
+| Expo Biseautée                        | 17.99$        | 1        | 20.68$     | Magasin Bureau en Gros    |
+| Expo Neon                             | 15.98$        | 1        | 18.37$     | Magasin Bureau en Gros    |
 
 ### Main d'oeuvre
 
@@ -44,6 +46,7 @@
 | ------------------------ | ----------- |
 | Budget divers            | 70.00$      |
 
-**Sous-Total : 287.64$**
+**Sous-Total : 329.69$**
+**Sous-Total sans le budget divers: 259.69**
 
 ---
