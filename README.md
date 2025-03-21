@@ -21,6 +21,5 @@
 - ![](/medias/images/installation/image_acceuil_2.jpg)
 - ![](/medias/images/installation/image_acceuil_3.jpg)
 - ![](/medias/images/installation/image_acceuil_4.jpg)
+- ![](/medias/images/installation/image_acceuil_4.jpg)
 <!--
-- ![Image 5](https://placehold.co/400x400?text=5+image)
-- ![Image 6](https://placehold.co/400x400?text=6+image)->
