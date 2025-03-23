@@ -1,110 +1,58 @@
 # Contenu multimédia
 
-### **Prismatica arborescence globale**
+### **Répertoire Prismatica**
 
     /medias
-    ├── /videos
-    │ ├── /intentions
-    │ ├── /bande_annonce
-    │ └── /processus_fabrication
+    ├── /videos 🎥
+    │ ├── /maquette.mov
+    │ ├── /test_couleur_rouge.mp4
+    │ └── /test_couleur_orange.mp4
+    │ ├── /test_couleur_jaune.mp4
+    │ └── /test_couleur_vert.mp4
+    │ ├── /test_couleur_bleu.mp4
+    │ └── /test_couleur_violet.mp4
+    │ └── /test_couleurs_table_lumineuse.mp4
     |
-    ├── /audios
-    │ ├── /effets
-    │ └── /ambiances
-    |
-    ├── /images
+    ├── /images 🖼️
     │ ├── /ambiances
     │ ├── /scenarimage
     │ ├── /scenario
     │ ├── /synoptique
     │ ├── /logo
-    │ └── /backgrounds
+    │ ├── /installation
+    │ ├── /maquette
+    │ ├── /plantation
+    │ ├── /progression
+    │ └── /equipe
     |
-    ├── /export
+    ├── /assets
+    │ └── /font
+
+---
+
+## **Répertoire audio**
+
+    ├── /audio_reaper 🎥
+    │ ├── /fichier_coequipier
+    | |   ├── /audio_reaper_vincent.rpp
+    | |   ├── /audio_reaper_ikrame.rpp
+    | |   └── /audio_reaper_jeremy.rpp
+    │ └── /audio_reaper_main.rpp
     |
-    └── /references
-
-
-
----
-
-## 🎥 **Vidéo**  
-
-### 📂 /videos  
-- **intentions**  
-    - `INTENTION_prismatica.mp4`
-- **bande_annonce**  
-    - `BANDE_ANNONCE_prismatica.mp4`
-- **making_of**  
-    - `PROCESSUS_fabrication_prismatica.mp4`  
+    ├── /ambiance 🖼️
+    │ ├── /ambiance.maxproj
+    │ └── /ambiance.mp4
 
 ---
 
-## 🎧 **Audio**  
+## **Répertoire TouchDesigner**
 
-### 📂 /audios  
-#### Effets sonores  
-- **rouge**  
-    - `ROUGE_effet_v01.wav`  
-    - `ROUGE_effet_v02.wav`  
-    - ...  
-    - `ROUGE_effet_v10.wav`  
-- **orange**  
-    - `ORANGE_effet_v01.wav`  
-    - `ORANGE_effet_v02.wav`  
-    - ...  
-    - `ORANGE_effet_v10.wav`  
-- **jaune**  
-    - `JAUNE_effet_v01.wav`  
-    - `JAUNE_effet_v02.wav`  
-    - ...  
-    - `JAUNE_effet_v10.wav`  
-- **vert**  
-    - `VERT_effet_v01.wav`  
-    - `VERT_effet_v02.wav`  
-    - ...  
-    - `VERT_effet_v10.wav`  
-- **bleu**  
-    - `BLEU_effet_v01.wav`  
-    - `BLEU_effet_v02.wav`  
-    - ...  
-    - `BLEU_effet_v10.wav`  
-- **violet**  
-    - `VIOLET_effet_v01.wav`  
-    - `VIOLET_effet_v02.wav`  
-    - ...  
-    - `VIOLET_effet_v10.wav`  
-
-#### Ambiances  
-- `AMBIANCE_global_prismatica.wav`
+    /patch_effet
+    ├── /fichier_coequipier
+    │ ├── /vincent
+    │ ├── /ikrame
+    │ └── /jeremy
+    |
+    ├── /effets.toe
 
 ---
-
-## 🖼️ **Images**  
-
-### 📂 /images  
-- **ambiances**  
-    - `planche_ambiance.png`  
-    - **references**  
-        - `polyfauna-v2-screenshot.jpg`  
-- **scenarimage**  
-    - `storyboard.png`  
-- **scenario**  
-    - `scenario_interactif.png`  
-- **synoptique**  
-    - `synoptique.png`  
-- **logo**  
-    - **favicon**  
-        - `favicon-16x16.png`  
-        - `favicon-32x32.png`  
-    - `prismatica-logo-black.png`  
-    - `prismatica-logo-black.svg`  
-    - `prismatica-logo-white.png`  
-    - `prismatica-logo-white.svg`  
-    - `prismatica-logo.svg`
-
----
-
-## 📚 **Références**
-
-

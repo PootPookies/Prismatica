@@ -33,7 +33,7 @@ L'objectif principal de **Prismatica** est de permettre à chaque participant de
 - **Marqueurs colorés** : utilisés pour dessiner sur le tableau.
 - **Caméra connectée à TouchDesigner** : capture les mouvements du marqueur et analyse les couleurs en temps réel.
 - **Casque audio** : pour écouter les sons générés par les couleurs dessinées.
-- ** Télévision** : pour afficher en temps réel le tracé numérique et visuel du dessin.
+- **Télévision** : pour afficher en temps réel le tracé numérique et visuel du dessin.
 
 #### Vérification Avant l'Utilisation
 

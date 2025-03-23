@@ -49,6 +49,6 @@ Vincent a travaillé sur le patch global en veillant à ce que toutes les couleu
 
 ![Analyse sonore ORANGE ](../../medias/images/progression/vincent/semaine_06_nouvelle_logique_animation_son.png)
 
-### S8 Derniers Tests et Harmonisation Finale
+### S8 Derniers Tests, Harmonisation Finale et Bande-annonce
 
-Vincent a effectué les derniers tests afin de s’assurer de l’harmonisation des couleurs et de leur cohérence avec l’ensemble du projet. Il a affiné les réglages pour garantir une interaction fluide et immersive entre les éléments visuels et sonores.
+Vincent a effectué les derniers tests afin de s’assurer de l’harmonisation des couleurs et de leur cohérence avec l’ensemble du projet, il a affiné les réglages pour garantir une interaction fluide et immersive entre les éléments visuels et sonores et aussi fait le montage de la bande-annonce.
